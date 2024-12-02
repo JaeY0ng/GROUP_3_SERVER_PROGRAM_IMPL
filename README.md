@@ -5,9 +5,9 @@
 - 이재용, 배주현, 김준영
 
 # STACKS 😶‍🌫️
-- FRONT END : HTML, CSS, JS, JSP
-- BACK END : SPRING BOOT
-- DATABASE : MYSQL, JPA, MYBATIS
+- 프론트엔드 : HTML, CSS, JS, JSP
+- 백엔드 : SPRING BOOT
+- 데이터베이스 : MYSQL, JPA, MYBATIS
 
 # 주요 기능
 - 도서 대여, 대여 목록 조회, 반납, 반납일 연장 기능
