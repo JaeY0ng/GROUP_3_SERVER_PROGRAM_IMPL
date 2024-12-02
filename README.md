@@ -21,16 +21,19 @@
 <hr>
 ### 대여 목록 조회
 ---
+
 ![image](https://github.com/user-attachments/assets/a057456f-7c1d-4afc-afa3-61b023544222)
 
 <hr>
 ### 반납
 ---
+
 ![image](https://github.com/user-attachments/assets/16398d30-5ad0-427a-af72-d743830e3512)
 
 <hr>
 ### 반납일 연장
 ---
+
 ![image](https://github.com/user-attachments/assets/726b01bb-053b-4fbf-b046-6e1a5e44d9e9)
 
 <hr>
