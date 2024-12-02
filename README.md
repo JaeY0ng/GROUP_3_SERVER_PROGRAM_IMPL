@@ -17,12 +17,16 @@
 # 도서 대여 기능
 ## 도서 대여
 ---
+**endPoint : ("/lend/add")**
+
 ![image](https://github.com/user-attachments/assets/02d8d8fc-75a9-4ee0-b1fe-a61ffc6efdba)
 
 <hr>
 
 ## 대여 목록 조회
 ---
+
+**endPoint : ("/lend/list")**
 
 ![image](https://github.com/user-attachments/assets/a057456f-7c1d-4afc-afa3-61b023544222)
 
@@ -31,12 +35,16 @@
 ## 반납
 ---
 
+**endPoint : ("/lend/bookReturn")**
+
 ![image](https://github.com/user-attachments/assets/16398d30-5ad0-427a-af72-d743830e3512)
 
 <hr>
 
 ## 반납일 연장
 ---
+
+endPoint : ("/lend/day")
 
 ![image](https://github.com/user-attachments/assets/726b01bb-053b-4fbf-b046-6e1a5e44d9e9)
 
