@@ -55,7 +55,7 @@
 ## 회원 가입
 ---
 
-**엔드포인트 : ("/join")**
+**엔드포인트 : ("/user/register")**
 ![image](https://github.com/user-attachments/assets/32c65a78-f4cb-4968-816d-e4cd0029bf39)
 
 <hr>
@@ -63,4 +63,15 @@
 ## 회원 정보 수정
 ---
 
-**엔드포인트 : ("/member")
+**엔드포인트 : ("/user/edit")**
+![image](https://github.com/user-attachments/assets/c131b080-1f17-447c-9028-1352ab3dc213)
+
+<hr>
+
+## 회원 정보 삭제
+---
+
+**엔드 포인트 : ("/user/")
+
+![image](https://github.com/user-attachments/assets/8b6537d7-f83e-4b59-bfa8-56afb9f10232)
+
