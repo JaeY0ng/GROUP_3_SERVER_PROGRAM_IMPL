@@ -68,10 +68,18 @@
 
 <hr>
 
-## 회원 정보 삭제
+## 회원 정보 조회 , 삭제
 ---
 
-**엔드 포인트 : ("/user/")
+**엔드 포인트 : ("/user/list") 로 접속 해 회원 목록 조회 와 삭제가 동시에 가능**
+
+![image](https://github.com/user-attachments/assets/997ae754-766e-4fe7-a6c4-db78dad6bd67)
+
+⬆️ 회원 목록 페이지 에서 선택 삭제
+
+<hr>
 
 ![image](https://github.com/user-attachments/assets/8b6537d7-f83e-4b59-bfa8-56afb9f10232)
+
+⬆️ JSP 코드
 
