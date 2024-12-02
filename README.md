@@ -51,3 +51,16 @@
 <hr>
 
 # 도서 회원 관리 기능
+
+## 회원 가입
+---
+
+**엔드포인트 : ("/join")**
+![image](https://github.com/user-attachments/assets/32c65a78-f4cb-4968-816d-e4cd0029bf39)
+
+<hr>
+
+## 회원 정보 수정
+---
+
+**엔드포인트 : ("/member")
