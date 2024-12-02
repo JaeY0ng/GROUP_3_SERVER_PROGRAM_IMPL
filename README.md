@@ -1,5 +1,5 @@
 # GROUP_3_SERVER_PROGRAM_IMPLEMENTATION
-3조 서버 프로그램 구현 ( BOOK SERVICE )
+## 3조 서버 프로그램 구현 ( BOOK SERVICE )
 
 # 조원 👥
 - 이재용
