@@ -73,6 +73,13 @@
 
 **엔드 포인트 : ("/user/list") 로 접속 해 회원 목록 조회 와 삭제가 동시에 가능**
 
+
+![image](https://github.com/user-attachments/assets/22a744b7-1421-45e7-9b27-105ce8acae69)
+
+⬆️ 회원 목록 페이지 에서 선택 삭제
+
+<hr>
+
 ![image](https://github.com/user-attachments/assets/997ae754-766e-4fe7-a6c4-db78dad6bd67)
 
 ⬆️ 회원 목록 페이지 에서 선택 삭제
