@@ -60,15 +60,7 @@
 
 <hr>
 
-## 회원 정보 수정
----
-
-**엔드포인트 : ("/user/edit")**
-![image](https://github.com/user-attachments/assets/c131b080-1f17-447c-9028-1352ab3dc213)
-
-<hr>
-
-## 회원 정보 조회, 수정, 삭제
+## 회원 목록 페이지에서 조회, 수정, 삭제
 ---
 
 **엔드 포인트 : ("/user/list") 로 접속 해 회원 목록 조회,수정과 삭제가 동시에 가능**
@@ -89,4 +81,15 @@
 ![image](https://github.com/user-attachments/assets/8b6537d7-f83e-4b59-bfa8-56afb9f10232)
 
 ⬆️ JSP 코드
+
+<hr>
+
+## 회원 정보 수정
+---
+
+**엔드포인트 : ("/user/edit")**
+![image](https://github.com/user-attachments/assets/c131b080-1f17-447c-9028-1352ab3dc213)
+
+<hr>
+
 
