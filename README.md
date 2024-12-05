@@ -1,16 +1,16 @@
 # 3조 서버 프로그램 구현 ( BOOK SERVICE )
 
-# 조원 👥
+## 조원 👥
 - 이재용
 - 배주현
 - 김준영
 
-# STACKS 😶‍🌫️
+## STACKS 😶‍🌫️
 - **프론트엔드** : <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">, JSP
 - **백엔드** : <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 - **DB** : <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"> MYBATIS
 
-# 백엔드 파일 구조
+## 백엔드 파일 구조
 ---
 ```
     │  │              │  DemoApplication.java
@@ -52,12 +52,12 @@
 ```
 
 
-# 주요 기능
+## 주요 기능
 - 도서 대여, 대여 목록 조회, 반납, 반납일 연장 기능
 - 도서 회원 가입(회원등록), 회원 정보 조회, 회원 정보 수정, 회원 정보 삭제
 
-# 도서 대여 기능
-## 도서 대여
+## 도서 대여 기능
+### 도서 대여
 ---
 **엔드포인트 : ("/lend/add")**
 
@@ -65,7 +65,7 @@
 
 <hr>
 
-## 대여 목록 조회
+### 대여 목록 조회
 ---
 
 **엔드포인트 : ("/lend/list")**
@@ -74,7 +74,7 @@
 
 <hr>
 
-## 반납
+### 반납
 ---
 
 **엔드포인트 : ("/lend/bookReturn")**
@@ -83,7 +83,7 @@
 
 <hr>
 
-## 반납일 연장
+### 반납일 연장
 ---
 
 **엔드포인트 : ("/lend/day")**
@@ -92,9 +92,9 @@
 
 <hr>
 
-# 도서 회원 관리 기능
+## 도서 회원 관리 기능
 
-## 회원 가입
+### 회원 가입
 ---
 
 **엔드포인트 : ("/user/register")**
@@ -102,7 +102,7 @@
 
 <hr>
 
-## 회원 목록 페이지에서 조회, 수정, 삭제
+### 회원 목록 페이지에서 조회, 수정, 삭제
 ---
 
 **엔드 포인트 : ("/user/list") 로 접속 해 회원 목록 조회,수정과 삭제가 동시에 가능**
@@ -126,7 +126,7 @@
 
 <hr>
 
-## 회원 정보 수정
+### 회원 정보 수정
 ---
 
 **엔드포인트 : ("/user/edit")**
