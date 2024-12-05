@@ -6,9 +6,9 @@
 - 김준영
 
 # STACKS 😶‍🌫️
-- 프론트엔드 : HTML, CSS, JS, JSP
-- 백엔드 : SPRING BOOT
-- 데이터베이스 : MYSQL, JPA, MYBATIS
+- **프론트엔드** : <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">, JSP
+- **백엔드** : <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+- **DB** : <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"> MYBATIS
 
 # 주요 기능
 - 도서 대여, 대여 목록 조회, 반납, 반납일 연장 기능
