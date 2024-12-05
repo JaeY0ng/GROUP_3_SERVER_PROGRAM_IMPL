@@ -10,6 +10,48 @@
 - **백엔드** : <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 - **DB** : <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"> MYBATIS
 
+# 백엔드 파일 구조
+---
+```
+    │  │              │  DemoApplication.java
+    │  │              │  ServletInitializer.java
+    │  │              │
+    │  │              ├─controller
+    │  │              │  │  ExceptionTestController.java
+    │  │              │  │  HomeController.java
+    │  │              │  │  LendController.java
+    │  │              │  │  UserController.java
+    │  │              │  │
+    │  │              │  └─exception
+    │  │              │          GlobalExceptionHandler.java
+    │  │              │
+    │  │              └─domain
+    │  │                  ├─dao
+    │  │                  ├─dto
+    │  │                  │      LendDto.java
+    │  │                  │      UserDto.java
+    │  │                  │
+    │  │                  ├─entity
+    │  │                  │      Book.java
+    │  │                  │      Lend.java
+    │  │                  │      User.java
+    │  │                  │
+    │  │                  ├─repository
+    │  │                  │      BookRepository.java
+    │  │                  │      LendRepository.java
+    │  │                  │      UserRepository.java
+    │  │                  │
+    │  │                  └─service
+    │  │                          LendServiceImpl.java
+    │  │                          UserServiceImpl.java
+    │  │
+    │  ├─resources
+    │  │  │  application.properties
+    │  │  │  data.sql
+    │  │  │  schema.sql
+```
+
+
 # 주요 기능
 - 도서 대여, 대여 목록 조회, 반납, 반납일 연장 기능
 - 도서 회원 가입(회원등록), 회원 정보 조회, 회원 정보 수정, 회원 정보 삭제
