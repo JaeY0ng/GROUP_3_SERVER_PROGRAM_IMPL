@@ -10,6 +10,35 @@
 - **백엔드** : <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 - **DB** : <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"> MYBATIS
 
+## 프론트 파일 구조
+```
+─views
+    │  globalError.jsp
+    │  home.jsp
+    │  join.jsp
+    │  login.jsp
+    │
+    ├─exTest
+    │      error.jsp
+    │      ex2.jsp
+    │
+    ├─lend
+    │      add.jsp
+    │      day.jsp
+    │      list.jsp
+    │      returnBook.jsp
+    │
+    ├─param
+    │      redirect_result.jsp
+    │
+    └─user
+            edit.jsp
+            list.jsp
+            register.jsp
+            view.jsp
+```
+
+
 ## 백엔드 파일 구조
 ---
 ```
